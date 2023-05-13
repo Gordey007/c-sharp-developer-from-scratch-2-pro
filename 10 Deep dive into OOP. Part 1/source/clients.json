@@ -1,0 +1,34 @@
+{
+  "clients": [
+    {
+      "ClientId": "c268f499-37fc-4843-b130-437bfa8629b1",
+      "Surname": "Иванов",
+      "Name": "Иван",
+      "Patronymic": "Иванович",
+      "PhoneNumber": "+70987654321",
+      "SeriesPassportNumber": "1337 23",
+      "DateTimeModified": "07.05.2023 11:33:07",
+      "DataChanged": null,
+      "EmployeeChangedData": null,
+      "Status": "Created"
+    },
+    {
+      "ClientId": "c268f499-37fc-4843-b130-437bfa8629b2",
+      "Surname": "Петров",
+      "Name": "Петр",
+      "Patronymic": "Петрович",
+      "PhoneNumber": "81234567890",
+      "SeriesPassportNumber": "1337 42",
+      "DateTimeModified": "07.05.2023 07:42:23",
+      "DataChanged": null,
+      "EmployeeChangedData": null,
+      "Status": "Created"
+    },
+    {
+      "ClientId": "c268f499-37fc-4843-b130-437bfa8629b3",
+      "Surname": null,
+      "Name": "",
+      "PhoneNumber": "+7 (111) 222-33-44"
+    }
+  ]
+}
